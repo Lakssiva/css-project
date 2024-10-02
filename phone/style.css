@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+}
+li,h1,ul{
+    display:inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color:white;
+    cursor: pointer;
+}
+li:hover{
+    color: gray;
+}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.two{
+    padding: 50px;
+    text-align: center;
+}
+.Models{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#case{
+    margin-right: 50px;
+}
+.three{
+    text-align: center;
+}
+.Models:hover{
+    background-color: black;
+    color: rgb(89, 87, 87);
+}
+.four{
+    text-align: center;
+}
+footer{
+ text-align: center;
+ background-color: black;
+ color: white;
+}
